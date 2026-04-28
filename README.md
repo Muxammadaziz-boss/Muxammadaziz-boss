@@ -30,10 +30,10 @@ class MuxammadazizDeveloper:
         self.frameworks  = ["Django", "Django REST Framework"]
         self.databases   = ["PostgreSQL", "MySQL"]
         self.learning    = ["Software Architecture", "System Design", "DevOps"]
-        self.goal        = "Yaxshi va kengaytiriladigan dasturlar yozish 🚀"
+        self.goal        = "Maqsadlarni ro'yobga chiqarish 🚀"
 
     def say_hi(self):
-        print("Salom! Keling birgalikda ajoyib narsalar yasaylik! 🤝")
+        print("Birga code yozishni boshlaylik! 🤝")
 
 me = MuxammadazizDeveloper()
 me.say_hi()
@@ -43,11 +43,11 @@ me.say_hi()
 
 ## 🔭 Hozirgi Faoliyat
 
-- 🏗️ **Qurmoqdaman** — Backend API va microservice loyihalari  
-- 📚 **O'rganmoqdaman** — Dasturiy ta'minot arxitekturasi va System Design  
-- 💡 **Qiziqmoqdaman** — Clean Architecture, DRF, PostgreSQL optimizatsiyasi  
-- 🤝 **Hamkorlikka tayyor** — Open-source Python/Django loyihalariga qo'shilishga!  
-- ⚡ **Qiziqarli fakt** — Kodni yozishdan ko'ra, uni qayta yozishni yaxshi ko'raman 😄
+- 🏗️ **Ishlarim** — Backend API va microservice loyihalari  
+- 📚 **Izlanishlarim** — Dasturiy ta'minot arxitekturasi va System Design  
+- 💡 **Qiziqishlarim** — Clean Architecture, DRF, PostgreSQL optimizatsiyasi  
+- 🤝 **Hamkorlik** — Open-source Python/Django loyihalariga qo'shilishga!  
+- ⚡ **Qiziqarli fakt** — Kodni yozishdan ko'ra, uni qayta tushunarli qilish muxim!
 
 ---
 
@@ -129,7 +129,7 @@ me.say_hi()
 
 ### 💭 Kunlik Fikr
 
-> *"Avval uni ishlatib ko'r, keyin uni chiroyli qil, so'ng uni tez qil."*  
+> *"Avval uni ishlatib ko'r, keyin uni chiroyli qil, so'ng uni tezroq qil."*  
 > — Kent Beck
 
 </div>

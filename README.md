@@ -32,11 +32,11 @@ class MuxammadazizDeveloper:
         self.learning    = ["Software Architecture", "System Design", "DevOps"]
         self.goal        = "Maqsadlarni ro'yobga chiqarish 🚀"
 
-    def say_hi(self):
-        print("Birga code yozishni boshlaylik! 🤝")
+    def say(self):
+        print("Telefon: +998-91-791-48-81")
 
 me = MuxammadazizDeveloper()
-me.say_hi()
+me.say()
 ```
 
 ---
